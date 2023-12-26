@@ -6,5 +6,5 @@ Problem statement id: 1444 <br />
 problem statement: <br />
 to design 3d sketch of<br />
 Smart Glass Cleaning Robot that efficiently <br />
-and quickly cleans dust from high-rise buildings, <br />
+and quickly cleans dust from high-rise buildings, 
 ensuring hygiene. <br />
